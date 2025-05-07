@@ -2,7 +2,7 @@
 
 This repository contains course material for the battery testing data processing tutorial.
 
-**Authors**: Jan Petter Mæhlen, Julia Wind  
+**Authors**: Jan Petter Mæhlen, Julia Wind, Carl Erik L. Foss  
 **Location**: IFE, Norway  
 **Date**: 2025.05.13  
 
