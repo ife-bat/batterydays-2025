@@ -42,3 +42,7 @@ This repository contains course material for the battery testing data processing
 - Jan Petter Mæhlen (IPN SPEED, Core developer `cellpy`): <jepe@ife.no>
 - Julia Wind (IPN SPEED, Core developer `cellpy`): <julia.wind@ife.no>
 - Carl Erik L. Foss (Outreach, IPN SPEED): <carl.foss@ife.no>
+
+## Acknowledgement
+
+This work was supported by FME BATTERY (xxx), IPN SPEED (xxx), and IFE.
