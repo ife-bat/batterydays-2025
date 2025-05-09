@@ -3,36 +3,20 @@
 This repository contains course material for the battery testing data processing tutorial.
 
 **Authors**: Jan Petter Mæhlen, Julia Wind, Carl Erik L. Foss  
-**Location**: IFE, Norway  
+**Location**: IFE, Kjeller, Norway  
 **Date**: 2025.05.13  
 
-## Before you begin
+## About today
 
-## Agenda for today
-
-## JupyterHub
-
-## Lessons
-
-### Lesson 0.1: Battery testing data - whaaat?
-
-### Lesson 0.2: Python and stuff
-
-### Lesson 0.3: `cellpy`
-
-### Lesson 1: Loading and looking
-
-### Lesson 2: Comparing
-
-### Lesson 3: Reporting
-
-### Lesson 4: GITT, ICA, and all that jazz
+All the lessons are in the form of `jupyter` notebooks. You can get access to both a `jupyterhub` and the notebooks
+through pressing the `nbgitpuller-link` (will be provide to you by the course responsibles).
 
 ## Contact information
 
 ### FME BATTERY
 
-- Hanne F. Andersen (FME Battery center leader): <hanne.flaten.andersen@ife.no>
+- Hanne F. Andersen (FME Battery director): <hanne.flaten.andersen@ife.no>
+- Odne S. Burheim (FME Battery Deputy director): <burheim@ntnu.no>
 - Marte Skare (FME Battery center coordinator): <marte.skare@ife.no>
 
 ### IPN SPEED and `cellpy`
@@ -45,4 +29,10 @@ This repository contains course material for the battery testing data processing
 
 ## Acknowledgement
 
-This work was supported by FME BATTERY (xxx), IPN SPEED (xxx), and IFE.
+This work was supported by FME BATTERY (RCN), IPN SPEED (RCN project no. 355923), and IFE.
+
+### Centre for Environment-friendly Energy Research (FME)
+
+FME is the Norwegian Research Council's arrangement for research activities carried out in close collaboration between research groups, trade and industry, and the public administration. Key tasks include international cooperation and researcher training. The FME Battery center brings together 8 research partners and above 30 user partners, in addition to 7 international partners.
+
+Read more: <https://www.ntnu.edu/fmebattery>
