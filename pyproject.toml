@@ -5,10 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "cellpy>=1.0.2",
+    "cellpy>=1.0.2.post1",
     "matplotlib>=3.10.3",
     "numpy>=2.2.5",
+    "openpyxl>=3.1.5",
     "pandas>=2.2.3",
     "plotly>=6.0.1",
     "rich>=14.0.0",
+    "sqlalchemy-access>=2.0.3",
 ]

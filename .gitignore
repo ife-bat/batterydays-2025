@@ -1,14 +1,10 @@
 # By me
 tmp/
 local/
+out/*
+!out/.gitkeep
 
-
-
-
-# By me
-
-
-
+# Python
 *.py[cod]
 *$py.class
 
