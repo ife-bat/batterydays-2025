@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "cellpy==1.0.2.post5",
+    "cellpy",
     "ipywidgets>=8.1.7",
     "kaleido==0.1.0",
     "matplotlib>=3.10.3",
@@ -17,3 +17,6 @@ dependencies = [
     "rich>=14.0.0",
     "sqlalchemy-access>=2.0.3",
 ]
+
+[tool.uv.sources]
+cellpy = { path = "../../cellpy", editable = true }
