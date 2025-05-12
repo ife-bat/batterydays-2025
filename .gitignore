@@ -4,6 +4,9 @@ local/
 out/*
 !out/.gitkeep
 
+data/examples/*
+!data/examples/.gitkeep
+
 # Python
 *.py[cod]
 *$py.class
